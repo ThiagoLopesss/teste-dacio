@@ -1203,7 +1203,6 @@ footer {
 .reveal {
   opacity: 0;
   transform: translateY(24px);
-  transition: all 0.6s ease;
 }
 .reveal.visible {
   opacity: 1;
