@@ -57,7 +57,7 @@ nav.scrolled {
   display: flex;
   align-items: center;
   gap: 10px;
-  font-family: "", sans-serif;
+  font-family: "Noto Sans SC", sans-serif;
   font-weight: 800;
   font-size: 1.25rem;
   color: var(--navy);
@@ -180,6 +180,10 @@ h1 {
 }
 h1 span {
   color: var(--teal);
+}
+
+h2 span{
+  color:#0d2b3e;
 }
 
 .hero-sub {
@@ -1034,7 +1038,7 @@ footer {
 }
 
 .footer-top {
-  font-family: "Raleway", sans-serif;
+  font-family: "Syne", sans-serif;
   display: grid;
   grid-template-columns: 2fr 1fr 1fr 1fr;
   gap: 48px;
@@ -1050,7 +1054,7 @@ footer {
   display: flex;
   align-items: center;
   gap: 10px;
-  font-family: "Syne", sans-serif;
+  font-family: "Noto Sans SC", sans-serif;
   font-weight: 800;
   font-size: 1.15rem;
   color: white;
@@ -1208,3 +1212,4 @@ footer {
   opacity: 1;
   transform: translateY(0);
 }
+
